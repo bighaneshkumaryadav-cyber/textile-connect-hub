@@ -17,7 +17,7 @@ const products = [
     color: "White",
     width: "60 inches",
     moq: "500 meters",
-    price: "$3.50/meter",
+    price: "₹280/meter",
     supplier: "Global Textiles Co.",
     stock: "In Stock"
   },
@@ -29,7 +29,7 @@ const products = [
     color: "Ivory",
     width: "54 inches",
     moq: "300 meters",
-    price: "$8.75/meter",
+    price: "₹700/meter",
     supplier: "Premium Fabrics Ltd",
     stock: "In Stock"
   },
@@ -41,7 +41,7 @@ const products = [
     color: "Navy Blue",
     width: "58 inches",
     moq: "1000 meters",
-    price: "$2.80/meter",
+    price: "₹225/meter",
     supplier: "SportTex Industries",
     stock: "Limited Stock"
   },
@@ -53,7 +53,7 @@ const products = [
     color: "Beige",
     width: "56 inches",
     moq: "400 meters",
-    price: "$5.20/meter",
+    price: "₹420/meter",
     supplier: "Natural Fabrics Inc",
     stock: "In Stock"
   }
